@@ -35,3 +35,15 @@ video {
   height: auto;
   border: 5px solid #EADEEA;
 }
+
+a {
+	font-weight: bold;
+}
+
+a:link {
+	color: purple;
+}
+
+a:visited {
+	color: purple;
+}

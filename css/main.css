@@ -14,5 +14,24 @@ p {
 	margin-top: 60px;
 	margin-left: 180px;
 	margin-right: 180px;
-	margin-bottom: 60px;
+	margin-bottom: 20px;
+}
+
+video {
+	margin: 30px 0;
+	border: 5px solid #EADEEA;
+}
+
+.container {
+  position: relative;
+  width: 90%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.image {
+  margin: 30px 0;
+  width: 50%;
+  height: auto;
+  border: 5px solid #EADEEA;
 }
